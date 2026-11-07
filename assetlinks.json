@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.funny_gelato_3a71f0.twa",
+        "sha256_cert_fingerprints": ["D6:51:EE:3D:C8:DD:3A:32:9A:BE:07:3C:51:63:67:F6:29:30:1E:B7:B9:96:C9:0B:73:6C:E8:4D:C5:65:7C:91"]
+      }
+    }]
